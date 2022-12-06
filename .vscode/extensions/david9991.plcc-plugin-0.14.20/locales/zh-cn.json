@@ -1,0 +1,15 @@
+{
+    "Test": "试验",
+    "Compiling the Project...": "工程编译中...",
+    "Compile failed!": "编译失败!",
+    "Compile complete!": "编译完成!",
+    "Name": "名称",
+    "Type": "类型",
+    "Address": "地址",
+    "Description": "描述",
+    "You can reload the window": "现在可以重新加载窗口",
+    "Reload": "重新加载窗口",
+    "execution reverted: Invalid password": "无效密码",
+    "Invalid session, please login again.": "无效会话，请重新登录",
+    "execution reverted: User doesn't exist": "用户不存在"
+}
